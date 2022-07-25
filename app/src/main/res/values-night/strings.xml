@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_number">Question: x/y</string>
+    <string name="btn_text_true">true</string>
+    <string name="btn_text_false">false</string>
+    <string name="btn_text_next">next</string>
+    <string name="correct_answer">Correct!</string>
+</resources>

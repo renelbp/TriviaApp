@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="main_tv_style">
+        <item name="android:fontFamily">@font/archivo_narrow_bold</item>
+        <item name="android:textColor">#F3EFEF</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>
